@@ -23,7 +23,9 @@ The game is unchanged. Every body keeps its place and hit box; only the pictures
 - **The sound is farts.** Every effect is one (the boss's fist thump is The Big One; the plunger lands with a
   splat; footsteps squelch; jumps go pfweeet; a barrel jumped toots; a death is a sad trombone, in Retro mode)
   and the music is played by them: pitched farts with a guttural growl carry the tunes, the drums are farts,
-  and stomach grumbles fill the gaps.
+  and stomach grumbles fill the gaps. Each effect has two or three farts and plays them in turn (the thump
+  three, the others two): a Game Printer page from 2026-11-15 on plays them all; an older page plays the
+  first one every time.
 - The stages and the lettering are the same as in Orangutan Arcade.
 
 Satire.
