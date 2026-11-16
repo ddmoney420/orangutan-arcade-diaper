@@ -41,8 +41,9 @@ no game data.
 ## How the art was made
 
 Generated with Google Gemini image models (`gemini-3-pro-image`, `gemini-nano-banana-2.1`) from our own prompts
-and the main theme's own art, then keyed, fitted and animated by script. Lettering: Russo One and Bungee (SIL
-Open Font License 1.1). The music and sounds are original, synthesized from scratch in code (numpy; no samples,
+and the main theme's own art, then cut out, fitted and animated by script. Each picture was redrawn on pure black
+and on pure white, and the difference between the two gives every pixel's transparency, so there is no green
+screen and no green fringe. Lettering: Russo One and Bungee (SIL Open Font License 1.1). The music and sounds are original, synthesized from scratch in code (numpy; no samples,
 no recordings), with the code and the tunes written by Claude (Anthropic) at the author's direction. `promo.gif`
 is a short scene made from the theme's own art (no gameplay capture).
 
